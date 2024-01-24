@@ -1,0 +1,6 @@
+@DifferentiatingApplication_HostAddress = http://localhost:5115
+
+GET {{DifferentiatingApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
